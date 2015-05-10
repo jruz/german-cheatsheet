@@ -1,11 +1,13 @@
 ---
 layout: page
-title: ":de: Deutsch Spickzettel" 
 ---
 
-{% for post in site.posts %}
-  <div class="post">
-    <h2>{{ post.title}}</h2>
-    {{ post.content }}
-  </div>
-{% endfor %}
+# :de: Deutsch Spickzettel
+
+<div class="content">
+  {% for post in site.posts %}
+    <div class="post">
+      {{ post.content }}
+    </div>
+  {% endfor %}
+</div>

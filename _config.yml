@@ -1,4 +1,2 @@
 gems:
-  - emoji_for_jekyll
-emoji-additional-keys:
-  - title
+  - jemoji
