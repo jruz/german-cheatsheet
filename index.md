@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deutsch Spickzettel 
+title: ":de: Deutsch Spickzettel" 
 ---
 
 {% for post in site.posts %}
