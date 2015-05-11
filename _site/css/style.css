@@ -11,6 +11,9 @@ ol {
 ul {
   margin-left: 1.2em; }
 
+ol, ul, p {
+  padding-bottom: 1em; }
+
 .wrapper {
   background-color: #efefef;
   padding: 2em;
